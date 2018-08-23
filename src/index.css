@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+
+.border{
+  width: 50%;
+    height: 100px;
+    overflow: auto;
+    border: 1px dotted;
+    padding: 10px;
+    margin: 10px;
+}
